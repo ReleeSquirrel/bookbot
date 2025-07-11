@@ -6,4 +6,4 @@ BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 requires python3
 
-python3 main.py /<file path>
+python3 main.py \<file path>
